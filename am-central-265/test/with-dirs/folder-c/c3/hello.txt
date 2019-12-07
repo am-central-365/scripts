@@ -1,0 +1,1 @@
+contents of folder-c/c3/hello.txt

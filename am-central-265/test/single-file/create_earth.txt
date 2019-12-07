@@ -1,0 +1,11 @@
+Due next week:
+
+NB: heavens and earth were initialized
+1. Create light
+2. Create sky
+3. Create land
+4. Add Sun and Moon
+5. Add sea creatures and birds
+6. Add land creatures and the humans
+7. Release, party
+
